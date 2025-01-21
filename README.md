@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-🪧 | 20y, SoftEng. @UofG\n
-🔊 | I speak 🇵🇹 & 🇬🇧\n
-📻 | My dream is to make music\n
+- 🪧 | 20y, SoftEng. @UofG
+- 🔊 | I speak 🇵🇹 & 🇬🇧
+- 📻 | My dream is to make music
