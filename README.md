@@ -1,9 +1,18 @@
-## Hi there 👋
+# Jimi | Software Engineer & Musician  
 
-- 🪧 | 20y, SoftEng. @UofG
-- 🔊 | I speak 🇵🇹 & 🇬🇧
-- 📻 | My dream is to make music
+🎸 Bassist & Producer | 💻 Software Engineering Student | 🏋️ Gym Enthusiast  
 
-## Languages & Tools
-<p align="left"> 
-<a href="https://www.python.org/" target="_blank"> <img width="<img width="32px" " src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
+## 🔧 Tech Stack  
+- Python | JavaScript  
+- Git | VS Code | Logic Pro X  
+
+## 📌 Interests  
+- Software engineering  
+- Music production & groove theory  
+- Fitness & strength training  
+
+## 🎯 Current Goals  
+- Building **python projects**
+- Improving my **bass technique & music production**  
+
+📫 **Connect with me:** [Instagram](#) | [YouTube](#)  
