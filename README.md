@@ -13,6 +13,6 @@ Bassist & Producer | Software Engineering Student
 
 ## 🎯 Current Goals  
 - Building **python projects**
-- Improving my **bass technique & music production**  
+- Improving my **groove & pocket**  
 
 📫 **Connect with me:** [Instagram](#) | [YouTube](#)  
