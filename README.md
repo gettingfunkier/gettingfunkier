@@ -1,4 +1,4 @@
-# Jimi | Software Engineer & Musician  
+# gettingfunkier
 
 Bassist & Producer | Software Engineering Student
 
