@@ -15,4 +15,4 @@ Bassist & Producer | Software Engineering Student
 - Building **python projects**
 - Improving my **groove & pocket**  
 
-📫 **Connect with me:** [Instagram](#) | [YouTube](#)  
+📫 **Connect with me:** [YouTube](#https://youtube.com/@gettingfunkier?si=kbk4qfK2pzxObuHY)
