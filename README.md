@@ -1,7 +1,6 @@
 # gettingfunkier
 
 🇵🇹🏴󠁧󠁢󠁳󠁣󠁴󠁿
-Bassist & Producer | Software Engineering Student
 
 ## My tools  
 - Python . JavaScript (learning)
