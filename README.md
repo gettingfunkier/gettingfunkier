@@ -1,6 +1,6 @@
 # Jimi | Software Engineer & Musician  
 
-🎸 Bassist & Producer | 💻 Software Engineering Student | 🏋️ Gym Enthusiast  
+Bassist & Producer | Software Engineering Student
 
 ## 🔧 Tech Stack  
 - Python | JavaScript  
