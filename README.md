@@ -3,12 +3,11 @@
 🇵🇹🏴󠁧󠁢󠁳󠁣󠁴󠁿
 Bassist & Producer | Software Engineering Student
 
-## Tech Stack  
-- Python | JavaScript  
-- Git | VS Code | Logic Pro X  
+## My tools  
+- Python . JavaScript (learning)
+- Git . VS Code . Logic Pro X  
 
-## Interests  
-- Software engineering  
+## Outside interests
 - Music production & groove theory  
 - Fitness & strength training  
 
