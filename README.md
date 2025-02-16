@@ -8,6 +8,4 @@
 
 ## Outside interests
 - Music production & groove theory  
-- Fitness & strength training  
-
-📫 **Connect with me:** [YouTube](#https://youtube.com/@gettingfunkier?si=kbk4qfK2pzxObuHY)
+- Fitness & strength training
