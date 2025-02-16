@@ -7,5 +7,6 @@
 - Git . VS Code . Logic Pro X  
 
 ## Outside interests
-- Music production & groove theory  
-- Fitness & strength training
+- Music production
+- Bass player
+- Fitness
