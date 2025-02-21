@@ -3,7 +3,7 @@
 🇵🇹🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 ## My tools  
-- Python . JavaScript (learning)
+- Python . assembly (learning)
 - Git . VS Code . Logic Pro X  
 
 ## Outside interests
