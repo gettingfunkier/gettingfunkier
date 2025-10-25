@@ -1,4 +1,4 @@
-## <p align=center>🇵🇹  🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
+## <p align=center>🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿</p>
 
 ### <p align=center>"you know, guitar is, I think of it as a- tambourine with a ton of different pitches and a very strange-looking.. tambourine more or less"</p>
 <p align=center>‑ Jack Stratton</p> 
