@@ -5,7 +5,7 @@
 
 <h2 align=left>about me</h2>
 
-<h4 align=center>🎧 Funk/Lo-Fi music production - 🎸 bass playing - 👾 indie games - 🛠️ web/game dev</h4> 
+<h4 align=center>🎧 Funk/Lo-Fi music production ․ 🎸 bass playing ․ 👾 indie games ․ 🛠️ web/game dev</h4> 
 
 <p>I'm 21 y/o, studying in a Faster Route, Software Engineering Masters degree at The University of Glasgow. I enjoy anything that lets me express artistic creativity, problem-solving, or sixth sense of minimalist-funk groove.</p>
 
