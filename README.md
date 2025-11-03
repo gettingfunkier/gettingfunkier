@@ -1,7 +1,7 @@
 <h3 align=center> ⎯ ⎯ ⎯ ⎯ ⌠ 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ⌡ ⎯ ⎯ ⎯ ⎯ </h3>
 
 <p align=center>
-  🔗 <a href="https://gettingfunkier.github.io/website">website</a>
+  <a href="https://gettingfunkier.github.io/website">𝚟𝚒𝚜𝚒𝚝 𝚖𝚢 𝚑𝚘𝚖𝚎𝚙𝚊𝚐𝚎</a>
 
 <h2 align=left>about me</h2>
 
