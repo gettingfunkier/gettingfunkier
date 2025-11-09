@@ -46,9 +46,9 @@
 <h2 align=left>quotes</h2>
 
 > "you know, guitar is, I think of it as a- tambourine with a ton of different pitches and a very strange-looking.. tambourine more or less"
-
+>
 > "how many tone knobs are in your oven?"
-
+>
 > "James Jamerson on the other hand... used one finger"
 
 <p align=right>Jack Stratton</p>
