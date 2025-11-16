@@ -49,6 +49,8 @@
 >
 > "how many tone knobs are in your oven?"
 >
+> "Rather than obsess, we compress."
+>
 > "James Jamerson on the other hand... used one finger"
 
 <p align=right>Jack Stratton</p>
