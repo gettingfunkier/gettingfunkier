@@ -43,18 +43,6 @@
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-<h2 align=left>quotes</h2>
-
-> "you know, guitar is, I think of it as a- tambourine with a ton of different pitches and a very strange-looking.. tambourine more or less"
->
-> "how many tone knobs are in your oven?"
->
-> "Rather than obsess, we compress."
->
-> "James Jamerson on the other hand... used one finger"
-
-<p align=right>Jack Stratton</p>
-
 > "Nature figured it out, Leo Fender followed suit."
 
 <p align=right>Joe Dart</p>
