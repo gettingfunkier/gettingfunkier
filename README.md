@@ -42,9 +42,3 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-> "Nature figured it out, Leo Fender followed suit."
-
-<p align=right>Joe Dart</p>
-
-  ---
