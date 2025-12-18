@@ -18,6 +18,7 @@
 | [freeCodeCamp-daily-challenges](https://github.com/gettingfunkier/freeCodeCamp-daily-challenges) | My collection of solutions to the freeCodeCamp daily challenges archive | JavaScript & Python |
 | [setlog](https://github.com/gettingfunkier/setlog) | A lightweight, local-first workout logger. Define workouts, generate sessions, and record your sets | Python |
 | [website](https://github.com/gettingfunkier/website) | Source code for my personal, static, minimal website | HTML |
+| [reporte-game](https://github.com/gettingfunkier/Reporte-Game) | Reporte Game | Python (Pygame) |
 | photo-cloud-protocol (🔒) | Socket-based client-server system for uploading, downloading, and listing images over a local network, implementing a custom protocol | Python
 
 <h2 align=left>roadmap</h2>
