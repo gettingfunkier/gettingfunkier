@@ -1,15 +1,37 @@
 <h3 align=center> ⎯ ⎯ ⎯ ⎯ ⌠ 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ⌡ ⎯ ⎯ ⎯ ⎯ </h3>
 
 <p align=center>
-  <a href="https://gettingfunkier.github.io/website">𝚟𝚒𝚜𝚒𝚝 𝚖𝚢 𝚑𝚘𝚖𝚎𝚙𝚊𝚐𝚎</a>
+  <a href="https://gettingfunkier.github.io/website">-- website --</a>
 
-<h2 align=left>about me</h2>
+<h2 align=left>About Me</h2>
 
-<h4 align=center>🎧 Funk/Lo-Fi music production ․ 🎸 bass playing ․ 👾 indie games ․ 🛠️ web/game dev</h4> 
+<p>I'm 21 y/o, studying in a Faster Route, Software Engineering Masters degree at The University of Glasgow. I enjoy anything that lets me express artistic creativity, problem-solving, or sixth sense of groove.</p>
 
-<p>I'm 21 y/o, studying in a Faster Route, Software Engineering Masters degree at The University of Glasgow. I enjoy anything that lets me express artistic creativity, problem-solving, or sixth sense of minimalist-funk groove.</p>
+<h4>🎧 | Music Production </h4>
 
-<h2 align=left>projects</h2>
+<p>I got into music through the various Vulf Records groups: Vulfpeck at first, then The Fearless Flyers and Vulfmon. After hearing the musical philosophy of the man behind the act - Jack Stratton. I got enlightened by his ideas of minimalism: groove over volume; foot taps over track count. Being a worthy successor to names like, Alphonso 'Fonce' Mizell, Wardell Quezergue, Rick Rubin, etc.. , I try to implement his ideas into my own music, whether being funk, indie rock, or more recently synth/vaporwave. I'm a Logic Pro main, but also interested in learning Ableton Live, and I've used Fruity Loops in the past.</p>
+
+<h4>🎸 | Guitar & Bass Playing</h4>
+
+<p>Contextually, I have a musical degree from the Conservatoire of Covilhã, specialising in the bassoon. Even though it gave me valuable theory and insight for composition, I never truly resonated with the instrument. Eventually, my dad was the primary inspiration for having the courage to change course (He's a Rockstar and I wanna be like him).</p>
+<p>I'm self taught, and still a bit of an amateur! I post covers occasionaly (<-- overstatement) to my youtube channel. My goal with guitar & bass is to be technically proficient enough to be able to fluently express my ideas.</p>
+
+<h4>👾 | Indie Games</h4>
+
+<p>What I live for. 112%'d Hollow Knight, completed Silksong, Nine Sols & Katana ZERO. Current wishlist is Celeste (started), Cuphead, and Inscryption (never finished). I view these games and others like them as art, and my biggest purpose is to one day open/join a small studio make my own every day.</p>
+
+<h4>🛠️ | Web/Game Dev</h4>
+
+<p>I love the idea of hosting my own website. Currently, you'll find it's still very barebones (I'd argue vulfpeck.com inspired!), but it's a project I'm building on with time.</p>
+<p>Currently learning Unity Engine, and making my own pixel art sprites. Retro/Vaporwave vibes!</p>
+
+<h2 align=left>Languages & Environments</h2>
+  
+[![Environments](https://skillicons.dev/icons?i=java,python,js,cs,html,css,git&theme=light)](https://skillicons.dev)
+
+[![Environments](https://skillicons.dev/icons?i=idea,pycharm,vscode,unity,ableton,obsidian,apple)](https://skillicons.dev)
+
+<h2 align=left>Projects</h2>
 
 | Project | Description | Language |
 |--------|-------------|---------|
@@ -20,28 +42,3 @@
 | [website](https://github.com/gettingfunkier/website) | Source code for my personal, static, minimal website | HTML |
 | [reporte-game](https://github.com/gettingfunkier/Reporte-Game) | Reporte Game | Python (Pygame) |
 | photo-cloud-protocol (🔒) | Socket-based client-server system for uploading, downloading, and listing images over a local network, implementing a custom protocol | Python
-
-<h2 align=left>roadmap</h2>
-
-#### 📖 Currently learning
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-#### 💡 I know
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### 🛠️ Environments / OS
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
