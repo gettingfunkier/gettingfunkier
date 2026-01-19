@@ -41,4 +41,5 @@
 | [setlog](https://github.com/gettingfunkier/setlog) | A lightweight, local-first workout logger. Define workouts, generate sessions, and record your sets | Python |
 | [website](https://github.com/gettingfunkier/website) | Source code for my personal, static, minimal website | HTML |
 | [reporte-game](https://github.com/gettingfunkier/Reporte-Game) | Reporte Game | Python (Pygame) |
+| [spy-game](https://github.com/gettingfunkier/spy-game) | ???? | C# (Unity Engine) |
 | photo-cloud-protocol (🔒) | Socket-based client-server system for uploading, downloading, and listing images over a local network, implementing a custom protocol | Python
