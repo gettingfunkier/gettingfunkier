@@ -1,7 +1,14 @@
 <h3 align=center> ⎯ ⎯ ⎯ ⎯ // 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 // ⎯ ⎯ ⎯ ⎯ </h3>
 
 <p align=center>
-  <a href="https://gettingfunkier.github.io/website">-- website --</a>
+  「 
+  🌐 <a href="https://gettingfunkier.github.io/website">website</a> | 
+  🎵 <a href="https://soundcloud.com/gettingfunkier">soundcloud</a> |
+  🎞️ <a href="https://www.youtube.com/@gettingfunkier">channel</a> 」
+
+<div align="center">
+  <img src="https://github.com/gettingfunkier/spy-game/blob/main/Docs/lily.gif" />
+</div>
 
 <h2 align=left>About Me</h2>
 
