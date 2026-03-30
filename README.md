@@ -1,4 +1,4 @@
-<h3 align=center> ⎯ ⎯ ⎯ ⎯ / 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 / ⎯ ⎯ ⎯ ⎯ </h3>
+<h3 align=center> ⎯ ⎯ ⎯ ⎯ 🇵🇹 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴󠁧󠁢󠁳󠁣󠁴󠁿 ⎯ ⎯ ⎯ ⎯ </h3>
 
 <p align=center>
   <a href="https://gettingfunkier.github.io/website">website</a> · 
@@ -20,11 +20,11 @@
 <h4>🎸 | Guitar & Bass Playing</h4>
 
 <p>Contextually, I have a musical degree from the Conservatoire of Covilhã, specialising in the bassoon. Even though it gave me valuable theory and insight for composition, I never truly resonated with the instrument. Eventually, my dad was the primary inspiration for having the courage to change course (He's a Rockstar and I wanna be like him).</p>
-<p>I'm self taught, and still a bit of an amateur! I post covers occasionaly (<-- overstatement) to my youtube channel. My goal with guitar & bass is to be technically proficient enough to be able to fluently express my ideas.</p>
+<p>I'm self taught, and still a bit of an amateur! I post covers occasionaly (<-- overstatement) on my youtube channel. My goal with guitar & bass is to be technically proficient enough to be able to fluently express my ideas.</p>
 
 <h4>👾 | Indie Games</h4>
 
-<p>What I live for. 112%'d Hollow Knight, completed Silksong, Nine Sols & Katana ZERO. Current wishlist is Celeste (started), Cuphead, and Inscryption (never finished). I view these games and others like them as art, and my biggest purpose is to one day open/join a small studio make my own every day.</p>
+<p>What I live for! 112%'d Hollow Knight, completed Silksong, Nine Sols & Katana ZERO. Current wishlist is Celeste (started), Cuphead, and Inscryption (never finished). I view these games and others like them as art, and my biggest purpose is to one day open/join a small studio make my own every day.</p>
 
 <h4>🛠️ | Web/Game Dev</h4>
 
