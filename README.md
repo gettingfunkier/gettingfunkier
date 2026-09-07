@@ -1,6 +1,6 @@
 <h2 align=left>Languages & Environments</h2>
   
-[![Environments](https://skillicons.dev/icons?i=js,java,python,cpp,cs,html,css,git&theme=light)](https://skillicons.dev)
+[![Environments](https://skillicons.dev/icons?i=js,java,python,c,cs,html,css,git&theme=light)](https://skillicons.dev)
 
 [![Environments](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,unity,ableton,obsidian,apple)](https://skillicons.dev)
 
