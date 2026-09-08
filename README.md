@@ -12,7 +12,6 @@
 | [mini-stardew-valley](https://github.com/gettingfunkier/mini-stardew-valley) | A terminal-based, cosy farming sim inspired by Stardew Valley | Java |
 | [freeCodeCamp-daily-challenges](https://github.com/gettingfunkier/freeCodeCamp-daily-challenges) | My collection of solutions to the freeCodeCamp daily challenges archive | JavaScript & Python |
 | [setlog](https://github.com/gettingfunkier/setlog) | A lightweight, local-first workout logger. Define workouts, generate sessions, and record your sets | Python |
-| [setlog 2.0](https://github.com/gettingfunkier/setlog-2.0) | Personal fitness analytics tool that parses Obsidian workout logs to file sessions, track progressive overload, improve exercise selection, and visualise training progress over time | Python |
 | [website](https://github.com/gettingfunkier/website) | Source code for my personal, static, minimal website | HTML |
 | [reporte-game](https://github.com/gettingfunkier/Reporte-Game) | Reporte Game | Python (Pygame) |
 | [spy-game](https://github.com/gettingfunkier/spy-game) | ???? | C# (Unity Engine) |
