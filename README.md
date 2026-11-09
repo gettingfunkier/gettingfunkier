@@ -14,7 +14,6 @@
 | [setlog](https://github.com/gettingfunkier/setlog) | A lightweight, local-first workout tool. Create your own workout routine, or have one generated for you based on what you want to train. At the end of your session, log your sets and setlog will keep track of everything. | Python |
 | [check-sh](https://github.com/gettingfunkier/check-sh) | A small shell script for testing C programs from the terminal. It compiles a file with strict flags (-std=c99 -Wall -pedantic -Werror) and compares the program's output against expected output files, byte for byte. | Shell
 | [freeCodeCamp-daily-challenges](https://github.com/gettingfunkier/freeCodeCamp-daily-challenges) | My freeCodeCamp daily challenges solutions | JavaScript & Python |
-| [reporte-game](https://github.com/gettingfunkier/Reporte-Game) | reporte game | Python <br>*(Pygame lib)* |
 | [arduino-cesto](https://github.com/gettingfunkier/arduino-cesto) | A Sol Cesto like Arduino game.<br>*Made with [@mars](https://github.com/marsPortakal)* | C++ |
 | website <br>(🔒) | Source code for my personal website | HTML |
 | lune <br>(🔒) | forgotten but not abandoned | C# <br>*(Unity Engine)* |
